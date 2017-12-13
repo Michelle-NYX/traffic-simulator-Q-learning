@@ -6,3 +6,6 @@ A traffic simulator is also construed to evaluate a given policy in terms of col
 reasonable time periods, where the driver acts interactively in the stochastic traffic environment, demonstrating low collision rate and obtaining higher travelling speed than the average of the environment. 
 Sample intelligent driver demonstration videos are posted on YouTube.
 https://youtu.be/OFRZzvPH30g
+
+Usage: run main_train for Q-learning
+       run main_evaluate for evaluating policies
