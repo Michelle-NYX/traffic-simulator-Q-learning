@@ -8,5 +8,7 @@ Sample intelligent driver demonstration videos are posted on YouTube.
 https://youtu.be/OFRZzvPH30g
 
 Usage: 
+
 > run main_train.m for Q-learning
+
 > run main_evaluate.m for evaluating policies
