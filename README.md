@@ -7,5 +7,6 @@ reasonable time periods, where the driver acts interactively in the stochastic t
 Sample intelligent driver demonstration videos are posted on YouTube.
 https://youtu.be/OFRZzvPH30g
 
-Usage: run main_train for Q-learning
-       run main_evaluate for evaluating policies
+Usage: 
+> run main_train.m for Q-learning
+> run main_evaluate.m for evaluating policies
